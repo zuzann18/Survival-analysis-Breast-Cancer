@@ -43,6 +43,8 @@ The Kaplan-Meier estimator shows survival probabilities over time, accounting fo
 
 **Visualization**:
 ![Kaplan-Meier Survival Curve](#)
+![image](https://github.com/user-attachments/assets/193448ad-6a1d-4d32-9c23-f1e75e71875c)
+
 
 #### 2. **Weibull Survival Curve**
 The Weibull model is a parametric survival model that estimates survival probabilities based on a mathematical distribution.
@@ -64,6 +66,8 @@ This visualization compares the Weibull and Log-Normal survival curves. It highl
 
 **Visualization**:
 ![Comparison of Weibull and Log-Normal Models](#)
+![image](https://github.com/user-attachments/assets/9f3a1f87-46bb-4a37-b4a6-d1e4b4b308a6)
+
 
 #### 4. **Cox Model Survival Curves**
 The Cox proportional hazards model was used to estimate survival probabilities for two patient groups:
@@ -76,6 +80,7 @@ The Cox proportional hazards model was used to estimate survival probabilities f
 
 **Visualization**:
 ![Cox Model Survival Curves](#)
+![image](https://github.com/user-attachments/assets/9a468e13-4752-4f11-ad2a-8365c214a2da)
 
 ### 4. Conclusions
 1. **Censoring is common**:

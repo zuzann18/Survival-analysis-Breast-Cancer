@@ -53,6 +53,7 @@ The Weibull model is a parametric survival model that estimates survival probabi
 
 **Visualization**:
 ![Weibull Survival Curve](#)
+![image](https://github.com/user-attachments/assets/d830c041-1c19-4a6b-91e2-a08f3fab94e8)
 
 #### 3. **Comparison of Weibull and Log-Normal Models**
 This visualization compares the Weibull and Log-Normal survival curves. It highlights differences in model predictions for long-term survival.

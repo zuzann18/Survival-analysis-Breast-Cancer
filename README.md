@@ -1,6 +1,12 @@
+
+---
+
 # Survival Analysis in R using GBSG2 Dataset
 
 This repository contains an in-depth exploration of survival analysis techniques using the **GBSG2** dataset. The analysis is implemented in R and includes statistical modeling, data visualization, and interpretation of survival patterns.
+
+### Topics
+`Survival Analysis` `Kaplan-Meier` `Weibull Model` `Log-Normal Model` `Cox Proportional Hazards` `Breast Cancer` `GBSG2 Dataset` `R Programming` `Data Visualization` `Statistical Modeling` `Clinical Data` `Survival Curves` `Censoring` `Exploratory Data Analysis`
 
 ## Features of this Repository
 
